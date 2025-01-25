@@ -34,7 +34,7 @@ jQuery: Simplifying JavaScript operations and DOM manipulation.
 
 💡 How to Use
 
-Clone this repository: git clone https://github.com/your-username/event-management-system.git
+Clone this repository: git clone https://github.com/vina-1234/event-management-system.git
 
 Open the project folder.
 Launch index.html in your web browser to view the website.
